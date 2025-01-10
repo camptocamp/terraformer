@@ -371,13 +371,12 @@ require (
 	github.com/PuerkitoBio/purell v1.1.1 // indirect
 	github.com/PuerkitoBio/urlesc v0.0.0-20170810143723-de5bf2ad4578 // indirect
 	github.com/aws/aws-sdk-go v1.44.122 // indirect
-	github.com/camptocamp/go-geoserver v0.0.0-20241226145437-50ac0707114e // indirect
 	github.com/clbanning/mxj v1.8.4 // indirect
 	github.com/emicklei/go-restful v2.16.0+incompatible // indirect
 	github.com/go-openapi/jsonpointer v0.19.5 // indirect
 	github.com/go-openapi/jsonreference v0.19.5 // indirect
 	github.com/go-openapi/swag v0.19.14 // indirect
-	github.com/golang-jwt/jwt/v4 v4.4.3 // indirect
+	github.com/golang-jwt/jwt/v4 v4.5.1 // indirect
 	github.com/google/gnostic v0.5.7-v3refs // indirect
 	github.com/google/s2a-go v0.1.4 // indirect
 	github.com/googleapis/enterprise-certificate-proxy v0.2.5 // indirect
@@ -394,6 +393,7 @@ require (
 )
 
 require (
+	github.com/camptocamp/go-geoserver v0.0.0-20241226145437-50ac0707114e
 	github.com/gofrs/uuid/v3 v3.1.2
 	github.com/ionos-cloud/sdk-go-cert-manager v1.0.0
 	github.com/ionos-cloud/sdk-go-container-registry v1.0.0
